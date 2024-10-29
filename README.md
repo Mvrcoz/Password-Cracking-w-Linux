@@ -15,4 +15,4 @@ This lab focuses on understanding and performing password cracking using John th
 ## Lab Summary
 In this lab, I performed multiple password cracking exercises using both John the Ripper and Hashcat. The exercises demonstrated the process of cracking password hashes from shadow files and applying different attack strategies.
 
-[Full Lab Report](./Password_Cracking_with_Linux.docx)
+[View Lab Report](https://docs.google.com/document/d/1GbkxOt4QlUOwLroA3EuEhZ5MFqph1TvE/edit?usp=sharing&ouid=100141634897900090292&rtpof=true&sd=true)
